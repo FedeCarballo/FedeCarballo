@@ -1,7 +1,7 @@
 # 👋 Hola! Mi nombre es Federico Carballo y te doy la bienvenida a mi repositorio 
 
 ## 🧑 Acerca de mi
-Fiel apasionado del mundo informatico desde muy pequeño nunca me anime a dedicarme al 100% al desarrollo, hasta que finalmente hace unos años di el gran paso hacia el Desarrollo Web, además de llevar la carrera de licenciatura en Alimentos logré certificarme como Desarrollador Front End en Coderhouse. 
+Fiel apasionado del mundo informatico desde muy pequeño, siempre lo tuve como un hobbie pero nunca me anime a dedicarme al 100% al desarrollo, hasta que finalmente hace unos años di el gran paso hacia el Desarrollo Web, además de llevar la carrera de licenciatura en Alimentos logré certificarme como Desarrollador Front End en Coderhouse. 
 
 Me considero una persona que siempre busca superarse, aprendiendo nuevas tecnologias o buscando nuevos desafios.
 
