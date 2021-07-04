@@ -14,6 +14,8 @@ Actualmente desempeño el rol de desarrollador Front End, con conocimientos en:
 - React JS
 
 ## 💻 Mis Proyectos 
+- 🤗[Re Agite! inclusivo](https://re-agiteinclusivo.vercel.app)
+  ``` web RE! agite inclusivo, un emprendimiento dedicado a animaciones y grupos terapeuticos ```
 - 🌻[El Girasol cosmetica natural](fedecarballo.github.io/El-Girasol-gh-pages-version)
  ``` Ecommerce desarrollada utilizando React JS ```
 - 👨‍⚖️[Quilmore Propiedades](https://quilmorepropiedades.com.ar)
