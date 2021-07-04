@@ -16,11 +16,11 @@ Actualmente desempeño el rol de desarrollador Front End, con conocimientos en:
 ## 💻 Mis Proyectos 
 - 🤗[Re Agite! inclusivo](https://re-agiteinclusivo.vercel.app)
   ``` web RE! agite inclusivo, un emprendimiento dedicado a animaciones y grupos terapeuticos ```
-- 🌻[El Girasol cosmetica natural](fedecarballo.github.io/El-Girasol-gh-pages-version)
+- 🌻[El Girasol cosmetica natural](https://fedecarballo.github.io/El-Girasol-gh-pages-version)
  ``` Ecommerce desarrollada utilizando React JS ```
 - 👨‍⚖️[Quilmore Propiedades](https://quilmorepropiedades.com.ar)
  ``` Web oficial de inmobiliaria Quilmore Propiedades, desarrollada con HTML5 y CSS ```
-- 🍕 [Pizzeria La koketita](lakoketita.com.ar)
+- 🍕 [Pizzeria La koketita](https://lakoketita.com.ar)
  ``` Web de Pizzeria la koketita, desarrollada con HTML5 y CSS ```
 ## 👀 Busqueda laboral
 En este momento me encuentro trabajando como Freelancer, en busqueda demi primera experiencia laboral formando parte de una empresa 
