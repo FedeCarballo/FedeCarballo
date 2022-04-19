@@ -16,14 +16,17 @@ Actualmente desempeño el rol de desarrollador Front End, con conocimientos en:
 ## 💻 Mis Proyectos 
 - 🤗[Re Agite! inclusivo](https://re-agiteinclusivo.vercel.app)
   ``` web RE! agite inclusivo, un emprendimiento dedicado a animaciones y grupos terapeuticos ```
-- 🌻[El Girasol cosmetica natural](https://fedecarballo.github.io/El-Girasol-gh-pages-version)
- ``` Ecommerce desarrollada utilizando React JS ```
+- [Wircom S.A](https://www.wircom.com.ar/)
+ ``` Landing Page desarrollada para la empresa Wircom S.A ```
 - 👨‍⚖️[Quilmore Propiedades](https://quilmorepropiedades.com.ar)
  ``` Web oficial de inmobiliaria Quilmore Propiedades, desarrollada con HTML5 y CSS ```
-- 🍕 [Pizzeria La koketita](https://lakoketita.com.ar)
- ``` Web de Pizzeria la koketita, desarrollada con HTML5 y CSS ```
+ - 👨‍⚖️[Altos de Espora](http://www.altosdeespora.com.ar/)
+ ``` Landing page de Proyecto inmobiliario Altos de Espora, desarrollada con HTML5 y CSS ```
+- 🍕 [Duende Arte y Cocina](https://fedecarballo.github.io/duende-arte-y-cocina/)
+ ``` Web de Duende Arte y Cocina, desarrollada con HTML5 y CSS ```
+ 
 ## 👀 Busqueda laboral
-En este momento me encuentro trabajando como Freelancer, en busqueda demi primera experiencia laboral formando parte de una empresa 
+En este momento me encuentro trabajando como Freelancer, en busqueda de mi primera experiencia laboral formando parte de una empresa 
 ## 📫 Medios de Contacto
 - [Linkedin](www.linkedin.com/in/federico-concepcion-carballo-benitez-91620b203)
 - Carballo523@gmail.com
