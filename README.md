@@ -4,6 +4,7 @@ Hola!👋 mi nombre es Federico Carballo y te doy la bienvenida a mi perfil
 Front end Developer futuro Full stack dev
 -------------------
 
+
 Fiel apasionado del mundo informatico desde muy pequeño, siempre lo tuve como un hobbie pero nunca me anime a dedicarme al 100% al desarrollo, hasta que finalmente hace unos años di el gran paso hacia el Desarrollo Web, logré certificarme como Desarrollador Front End en Coderhouse y actualmente estoy realizando el Bootcamp de Full stack developer en Soyhenry
 
 * 🌍   Argentina
@@ -32,14 +33,32 @@ Fiel apasionado del mundo informatico desde muy pequeño, siempre lo tuve como u
 
 <a href="http://www.github.com/FedeCarballo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FedeCarballo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="http://www.github.com/fedecarballo"><img src="https://github-readme-stats.vercel.app/api?username=fedecarballo&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="fedecarballo's GitHub stats" /></a>
+
+
 ## 💻 Mis Proyectos 
-- 🤗 [Re Agite! inclusivo](https://re-agiteinclusivo.vercel.app)
-  ``` web RE! agite inclusivo, un emprendimiento dedicado a animaciones y grupos terapeuticos ```
--    [Wircom S.A](https://www.wircom.com.ar/)
- ``` Landing Page desarrollada para la empresa Wircom S.A ```
-- 👨‍⚖️ [Quilmore Propiedades](https://quilmorepropiedades.com.ar)
- ``` Web oficial de inmobiliaria Quilmore Propiedades, desarrollada con HTML5 y CSS ```
-- 👨‍⚖️ [Altos de Espora](http://www.altosdeespora.com.ar/)
- ``` Landing page de Proyecto inmobiliario Altos de Espora, desarrollada con HTML5 y CSS ```
-- 🍕  [Duende Arte y Cocina](https://fedecarballo.github.io/duende-arte-y-cocina/)
+- [Weather-App](https://benevolent-kheer-4491cd.netlify.app/)
+  ``` Proyecto realizado con React JS consumiendo la API para realizar consultas relacionadas al clima actual de diferentes partes del mundo ```
+ <a href="https://github.com/FedeCarballo/weather-app/tree/main/weather-web-app">![port0](https://user-images.githubusercontent.com/77030730/169118287-7485b430-8806-458e-956a-584a46bdebe9.jpg)</a>
+ 
+ - [Duende Arte y Cocina](https://fedecarballo.github.io/duende-arte-y-cocina/)
  ``` Web de Duende Arte y Cocina, desarrollada con HTML5 y CSS ```
+  <a href="https://github.com/FedeCarballo/duende-arte-y-cocina">![port1](https://user-images.githubusercontent.com/77030730/169119280-a2dbb645-08cf-464f-913e-6ca3c1c1c55c.jpg)</a>
+  
+- [Re Agite! inclusivo](https://re-agiteinclusivo.vercel.app)
+  ``` web RE! agite inclusivo, un emprendimiento dedicado a animaciones y grupos terapeuticos ```
+<a href="https://github.com/FedeCarballo/REagite">![port3](https://user-images.githubusercontent.com/77030730/169120547-e2fd425b-f105-4a4f-a73f-3a7d9b9ab614.jpg)</a>
+
+- [Wircom S.A](https://www.wircom.com.ar/)
+ ``` Landing Page desarrollada para la empresa Wircom S.A ```
+ 
+ <a href="https://github.com/FedeCarballo/Wircom-SA">![port4](https://user-images.githubusercontent.com/77030730/169120859-772f166b-2542-420e-a5be-5e75780c66ee.jpg)</a>
+ 
+- [Quilmore Propiedades](https://quilmorepropiedades.com.ar)
+ ``` Web oficial de inmobiliaria Quilmore Propiedades, desarrollada con HTML5 y CSS ```
+  <a href="https://github.com/FedeCarballo/QuilmorePropiedades">![port2](https://user-images.githubusercontent.com/77030730/169121017-a897ca72-be11-4f33-adef-c353453f6d5d.jpg)</a>
+  
+- [Rick y Morty Cards](https://fedecarballo.github.io/rick-y-morty-gh-pages/)
+ ```Proyecto realizado con React JS diseñada con el fin de consumir la api de Rick y Morty```
+  <a href="https://github.com/FedeCarballo/rick-y-morty-gh-pages">![port5-1](https://user-images.githubusercontent.com/77030730/169121620-b5bb247c-ce64-41fc-85c7-2dcb71b32789.jpg)</a>
+<br>
+<p align="center"><b>Puedes ingresar al codigo dando click en la imagen</b></p>
