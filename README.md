@@ -55,8 +55,9 @@ Fiel apasionado del mundo informatico desde muy pequeño, siempre lo tuve como u
  
 - [Quilmore Propiedades](https://quilmorepropiedades.com.ar)
  ``` Web oficial de inmobiliaria Quilmore Propiedades, desarrollada con HTML5 y CSS ```
-  <a href="https://github.com/FedeCarballo/QuilmorePropiedades">![port2](https://user-images.githubusercontent.com/77030730/169121017-a897ca72-be11-4f33-adef-c353453f6d5d.jpg)</a>
-  
+  <a href="https://github.com/FedeCarballo/QuilmorePropiedades">  ![port2](https://user-images.githubusercontent.com/77030730/169328328-ab4fc00f-ffdd-4ac7-b994-cb2e615eb89d.jpg)</a>
+
+
 - [Rick y Morty Cards](https://fedecarballo.github.io/rick-y-morty-gh-pages/)
  ```Proyecto realizado con React JS diseñada con el fin de consumir la api de Rick y Morty```
   <a href="https://github.com/FedeCarballo/rick-y-morty-gh-pages">![port5-1](https://user-images.githubusercontent.com/77030730/169121620-b5bb247c-ce64-41fc-85c7-2dcb71b32789.jpg)</a>
