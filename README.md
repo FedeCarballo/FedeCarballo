@@ -5,7 +5,7 @@ Full stack web Developer
 -------------------
 
 
-Fiel apasionado del mundo informatico desde muy pequeño, siempre lo tuve como un hobbie pero nunca me anime a dedicarme al 100% al desarrollo, hasta que finalmente hace unos años di el gran paso hacia el Desarrollo Web, logré certificarme como Desarrollador Front End en Coderhouse y actualmente estoy realizando el Bootcamp de Full stack developer en Soyhenry
+Fiel apasionado del mundo informatico desde muy pequeño, siempre lo tuve como un hobbie pero nunca me anime a dedicarme al 100% al desarrollo, hasta que finalmente hace unos años di el gran paso hacia el Desarrollo Web, logré certificarme como Desarrollador Front End en Coderhouse y actualmente soy desarrollador Full Stack
 
 * 🌍   Argentina
 * ✉️  Contacto [carballo523@gmail.com](mailto:carballo523@gmail.com)
@@ -37,6 +37,11 @@ Fiel apasionado del mundo informatico desde muy pequeño, siempre lo tuve como u
 
 
 ## 💻 Mis Proyectos 
+
+- [Weather-App]([https://countries-deploy-version-final-57ypw7fbt-fedecarballo.vercel.app])
+  ``` Proyecto full stack realizado para el bootcamp de soyhenry utilizando REACT JS, SQL, EXPRESS & NODE JS ```
+ <a href="https://github.com/FedeCarballo/countries-deploy-version-2">![1](https://user-images.githubusercontent.com/77030730/173206227-081951d6-a043-4d7d-b35d-55bd72f97807.jpg)
+ 
 - [Weather-App](https://benevolent-kheer-4491cd.netlify.app/)
   ``` Proyecto realizado con React JS consumiendo la API para realizar consultas relacionadas al clima actual de diferentes partes del mundo ```
  <a href="https://github.com/FedeCarballo/weather-app/tree/main/weather-web-app">![port0](https://user-images.githubusercontent.com/77030730/169118287-7485b430-8806-458e-956a-584a46bdebe9.jpg)</a>
