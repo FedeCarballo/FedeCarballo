@@ -1,7 +1,7 @@
 Hola!👋 mi nombre es Federico Carballo y te doy la bienvenida a mi perfil
 ==================================
 
-Front end Developer futuro Full stack dev
+Full stack web Developer
 -------------------
 
 
