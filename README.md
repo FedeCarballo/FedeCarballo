@@ -38,7 +38,7 @@ Fiel apasionado del mundo informatico desde muy pequeño, siempre lo tuve como u
 
 ## 💻 Mis Proyectos 
 
-- [Countries App]([https://countries-deploy-version-final-57ypw7fbt-fedecarballo.vercel.app])
+- [Countries App](https://countries-deploy-version-final-57ypw7fbt-fedecarballo.vercel.app)
   ``` Proyecto full stack realizado para el bootcamp de soyhenry utilizando REACT JS, SQL, EXPRESS & NODE JS ```
  <a href="https://github.com/FedeCarballo/countries-deploy-version-2">![1](https://user-images.githubusercontent.com/77030730/173206227-081951d6-a043-4d7d-b35d-55bd72f97807.jpg)
  
