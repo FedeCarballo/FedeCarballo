@@ -38,8 +38,12 @@ Fiel apasionado del mundo informatico desde muy pequeño, siempre lo tuve como u
 
 ## 💻 Mis Proyectos 
 
+- [MEL7E](https://mercado-los-7-enanitos.vercel.app/)
+  ``` Proyecto Full Stack realizado como entrega final grupal para el bootcamp de Soy Henry ```
+ <a href="https://github.com/FedeCarballo/ProyectoGrupal">![MEL7E2](https://user-images.githubusercontent.com/77030730/179841915-87e61a53-7442-4bd0-8ed4-34e4caf2a9c1.jpg)</a>
+ 
 - [Countries App](https://countries-deploy-version-final-57ypw7fbt-fedecarballo.vercel.app)
-  ``` Proyecto full stack realizado para el bootcamp de soyhenry utilizando REACT JS, SQL, EXPRESS & NODE JS ```
+  ``` Proyecto Full Stack realizado para el bootcamp de Soy Henry utilizando REACT JS, SQL, EXPRESS & NODE JS ```
  <a href="https://github.com/FedeCarballo/countries-deploy-version-2">![1](https://user-images.githubusercontent.com/77030730/173206227-081951d6-a043-4d7d-b35d-55bd72f97807.jpg)
  
 - [Weather-App](https://benevolent-kheer-4491cd.netlify.app/)
