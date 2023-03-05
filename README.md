@@ -65,15 +65,11 @@ Fiel apasionado del mundo informatico desde muy pequeño, siempre lo tuve como u
   ``` web RE! agite inclusivo, un emprendimiento dedicado a animaciones y grupos terapeuticos ```
 <a href="https://github.com/FedeCarballo/REagite">![port3](https://user-images.githubusercontent.com/77030730/169120547-e2fd425b-f105-4a4f-a73f-3a7d9b9ab614.jpg)</a>
 
-- [Wircom S.A](https://www.wircom.com.ar/)
+- [Wircom S.A](https://fedecarballo.github.io/Wircom-SA/)
  ``` Landing Page desarrollada para la empresa Wircom S.A ```
  
  <a href="https://github.com/FedeCarballo/Wircom-SA">![port4](https://user-images.githubusercontent.com/77030730/169120859-772f166b-2542-420e-a5be-5e75780c66ee.jpg)</a>
  
-- [Quilmore Propiedades](https://quilmorepropiedades.com.ar)
- ``` Web oficial de inmobiliaria Quilmore Propiedades, desarrollada con HTML5 y CSS ```
-  <a href="https://github.com/FedeCarballo/QuilmorePropiedades">  ![port2](https://user-images.githubusercontent.com/77030730/169328328-ab4fc00f-ffdd-4ac7-b994-cb2e615eb89d.jpg)</a>
-
 
 - [Rick y Morty Cards](https://fedecarballo.github.io/rick-y-morty-gh-pages/)
  ```Proyecto realizado con React JS diseñada con el fin de consumir la api de Rick y Morty```
