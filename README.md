@@ -5,7 +5,7 @@ Full stack web Developer
 -------------------
 
 
-Fiel apasionado del mundo informatico desde muy pequeño, siempre lo tuve como un hobbie pero nunca me anime a dedicarme al 100% al desarrollo, hasta que finalmente hace unos años di el gran paso hacia el Desarrollo Web, logré certificarme como Desarrollador Front End en Coderhouse y actualmente soy desarrollador Full Stack
+Fiel apasionado del mundo informatico desde muy pequeño, siempre lo tuve como un hobbie pero nunca me anime a dedicarme al 100% al desarrollo, hasta que finalmente hace unos años di el gran paso hacia el Desarrollo Web, logré certificarme como Desarrollador Front End en Coderhouse, actualmente soy desarrollador Full Stack y recientemente inicie mis estudios en ingeniería Informática
 
 * 🌍   Argentina
 * ✉️  Contacto [carballo523@gmail.com](mailto:carballo523@gmail.com)
