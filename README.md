@@ -1,11 +1,11 @@
 Hola!👋 mi nombre es Federico Carballo y te doy la bienvenida a mi perfil
 ==================================
 
-Full stack web Developer
+Full stack Developer
 -------------------
 
 
-Fiel apasionado del mundo informatico desde muy pequeño, siempre lo tuve como un hobbie pero nunca me anime a dedicarme al 100% al desarrollo, hasta que finalmente hace unos años di el gran paso hacia el Desarrollo Web, logré certificarme como Desarrollador Front End en Coderhouse, actualmente soy desarrollador Full Stack y recientemente inicie mis estudios en ingeniería Informática
+Apasionado del mundo informatico desde muy pequeño, siempre lo tuve como un hobbie pero nunca me anime a dedicarme al 100% al desarrollo, hasta que finalmente hace unos años di el gran paso hacia el Desarrollo Web, logré certificarme como Desarrollador Front End en Coderhouse, actualmente soy desarrollador Full Stack y recientemente inicie mis estudios en ingeniería Informática
 
 * 🌍   Argentina
 * ✉️  Contacto [carballo523@gmail.com](mailto:carballo523@gmail.com)
@@ -32,7 +32,7 @@ Fiel apasionado del mundo informatico desde muy pequeño, siempre lo tuve como u
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/FedeCarballo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/fede_carballo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/federico-concepcion-carballo-benitez/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.twitter.com/FedeCarballo_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/FedeCarballo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/federico-concepcion-carballo-benitez/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.twitter.com/FedeCarballo_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
